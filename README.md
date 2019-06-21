@@ -2,10 +2,10 @@
 
 This is a set of GNU/Linux tools for IAQ usb CO 20 stick made by "AppliedSensor". 
 
-idVendor: 0x03eb Atmel Corp.
-idProduct: 0x2013
-iManufacturer: AppliedSensor
-iProduct: iAQ Stick
+ + idVendor: 0x03eb Atmel Corp.
+ + idProduct: 0x2013
+ + iManufacturer: AppliedSensor
+ + iProduct: iAQ Stick
 
 ## python-upnp-share-airsensor-linux-usb
 
